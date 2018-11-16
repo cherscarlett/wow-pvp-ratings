@@ -1,0 +1,6 @@
+## Interface: 80000
+## Title: PVP Ratings
+## Author: Cher Scarlett
+## Version: 0.1
+
+main.lua
